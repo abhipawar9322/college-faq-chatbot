@@ -1,0 +1,478 @@
+{
+  "metadata": {
+    "institution_name": "Apex Institute of Technology & Management (Demo Campus)",
+    "version": "1.0.0",
+    "last_updated": "2026-10-14",
+    "disclaimer": "All information provided in this dataset is mock/demo data intended for academic and portfolio demonstration purposes."
+  },
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Admissions & Eligibility",
+      "question": "What is the admission procedure for undergraduate B.Tech programs?",
+      "patterns": [
+        "How do I apply for BTech admission?",
+        "What is the admission process for engineering?",
+        "B.Tech admission steps and requirements",
+        "How to take admission in undergraduate courses?",
+        "Engineering admission procedure"
+      ],
+      "answer": "Undergraduate B.Tech admissions are based on national or state entrance test scores (such as JEE Main or State CET) followed by centralized counseling. Candidates must submit an online application on the college admissions portal, upload required academic documents, and participate in document verification during the designated counseling rounds.",
+      "tags": ["btech", "admission", "jee main", "counseling", "application"]
+    },
+    {
+      "id": 2,
+      "category": "Admissions & Eligibility",
+      "question": "What are the minimum eligibility criteria for B.Tech and MCA courses?",
+      "patterns": [
+        "What is the eligibility for B.Tech and MCA?",
+        "Minimum marks required for admission",
+        "BTech and MCA cutoff percentage criteria",
+        "Am I eligible for admission with 60 percent?",
+        "Criteria for engineering and MCA admissions"
+      ],
+      "answer": "For B.Tech: Candidates must have passed 10+2 with Physics, Mathematics, and Chemistry/Computer Science with at least 60% aggregate marks (55% for reserved categories). For MCA: Candidates must hold a recognized Bachelor's degree (BCA/B.Sc/B.Com/B.A.) with Mathematics at 10+2 or graduation level and a minimum of 50% aggregate.",
+      "tags": ["eligibility", "btech", "mca", "percentage", "cutoff", "marks"]
+    },
+    {
+      "id": 3,
+      "category": "Admissions & Eligibility",
+      "question": "Can I get direct admission through management quota or lateral entry?",
+      "patterns": [
+        "Is there management quota admission?",
+        "How does lateral entry admission work for diploma holders?",
+        "Direct admission in second year BTech",
+        "Can polytechnic diploma holders join 2nd year?",
+        "Management quota seats availability"
+      ],
+      "answer": "Yes. Diploma holders in Engineering with at least 50% marks can apply for Direct Second Year (Lateral Entry) into B.Tech programs. A limited percentage of seats is also available under the institutional/management quota as per state regulatory guidelines.",
+      "tags": ["lateral entry", "diploma", "management quota", "direct admission", "second year"]
+    },
+    {
+      "id": 4,
+      "category": "Admissions & Eligibility",
+      "question": "What documents are required during admission document verification?",
+      "patterns": [
+        "What documents do I need to bring for admission?",
+        "Required documents for college admission verification",
+        "Document checklist for new students",
+        "Certificates needed for joining college"
+      ],
+      "answer": "The essential documents include: 1) 10th and 12th Marksheets & Passing Certificates, 2) Entrance Exam Scorecard & Admit Card, 3) Transfer/School Leaving Certificate, 4) Migration Certificate, 5) Category/Caste Certificate (if applicable), 6) Government photo ID (Aadhaar/Passport), and 7) 6 passport-size photographs.",
+      "tags": ["documents", "verification", "checklist", "certificates", "marksheet"]
+    },
+    {
+      "id": 5,
+      "category": "Courses & Academics",
+      "question": "Which academic engineering and management branches are offered?",
+      "patterns": [
+        "What courses and branches are available?",
+        "Which degrees are offered by the college?",
+        "List of departments and programs",
+        "Do you have Computer Science and AI branches?",
+        "Branches offered in engineering"
+      ],
+      "answer": "The institute offers B.Tech programs in Computer Science & Engineering (CSE), Artificial Intelligence & Data Science (AI-DS), Electronics & Telecommunication (ENTC), Mechanical Engineering, and Information Technology. Postgraduate offerings include M.Tech, MBA, and MCA.",
+      "tags": ["branches", "courses", "degrees", "departments", "cse", "aids", "mba", "mca"]
+    },
+    {
+      "id": 6,
+      "category": "Courses & Academics",
+      "question": "What is the mandatory attendance requirement to appear for semester exams?",
+      "patterns": [
+        "What is the minimum attendance required?",
+        "Is 75 percent attendance mandatory?",
+        "Can I write exams with low attendance?",
+        "Attendance policy for semester examinations",
+        "What happens if my attendance is below 75 percent?"
+      ],
+      "answer": "Students must maintain a minimum of 75% attendance in theory lectures and practical labs separately for each subject. Students falling between 65% and 74% due to verified medical conditions must submit certified medical documents. Those below 65% may be detained from appearing in end-semester examinations.",
+      "tags": ["attendance", "75 percent", "detention", "rules", "exams"]
+    },
+    {
+      "id": 7,
+      "category": "Courses & Academics",
+      "question": "How is the academic grading system and CGPA calculated?",
+      "patterns": [
+        "How is CGPA calculated from SGPA?",
+        "What is the grading scale used in college?",
+        "How to convert CGPA to percentage?",
+        "Credit system and GPA calculation formula"
+      ],
+      "answer": "The institute follows a 10-point relative grading scale: O (Outstanding = 10), A+ (Excellent = 9), A (Very Good = 8), B+ (Good = 7), B (Above Average = 6), C (Average = 5), P (Pass = 4), and F (Fail = 0). SGPA is computed as sum(Credits * Grade Points) / Total Credits for that semester. Percentage approximation is typically (CGPA * 9.5) or as per university ordinance.",
+      "tags": ["cgpa", "sgpa", "grading", "credits", "percentage", "formula"]
+    },
+    {
+      "id": 8,
+      "category": "Fees & Scholarships",
+      "question": "What is the annual tuition fee structure for B.Tech and other courses?",
+      "patterns": [
+        "What are the annual fees for B.Tech?",
+        "How much is the college tuition fee per year?",
+        "Total fee for engineering degree",
+        "Semester fee amount and payment schedule"
+      ],
+      "answer": "Annual tuition fees for B.Tech programs are approximately ₹1,20,000 per academic year for general category students (divided across two semester installments). Laboratory, library, development, and student activity fees total approximately ₹25,000 per year. (Note: These figures are sample demo data).",
+      "tags": ["fees", "tuition", "cost", "annual fee", "btech fees", "payment"]
+    },
+    {
+      "id": 9,
+      "category": "Fees & Scholarships",
+      "question": "What government and merit scholarships are available for students?",
+      "patterns": [
+        "Are there any scholarship schemes?",
+        "Merit scholarships for top rankers",
+        "Government financial aid and fee waivers",
+        "How to apply for college scholarships?",
+        "Scholarships for economically backward students"
+      ],
+      "answer": "Students can apply for: 1) State & National Scholarship Portal (NSP) schemes for SC/ST/OBC/EWS candidates, 2) Institute Merit Scholarships offering up to 50% tuition waiver for semester rank-holders with CGPA > 9.0, and 3) Special corporate sponsored scholarships for girl students in STEM and sports achievers.",
+      "tags": ["scholarships", "financial aid", "nsp", "merit", "fee waiver", "ews"]
+    },
+    {
+      "id": 10,
+      "category": "Fees & Scholarships",
+      "question": "What modes of payment are accepted for tuition fees, and are installments allowed?",
+      "patterns": [
+        "How can I pay my college fees online?",
+        "Can I pay semester fees in installments?",
+        "Accepted payment methods for fees",
+        "Fee payment portal and bank transfer options"
+      ],
+      "answer": "Fees can be paid online via the College ERP Student Portal using Net Banking, UPI, Debit/Credit cards, or offline via Bank Demand Draft (DD) in favor of the college. Split installment requests (up to two parts per semester) can be submitted to the accounts section with prior approval from the Dean of Student Affairs.",
+      "tags": ["fee payment", "installments", "online payment", "upi", "net banking", "dd"]
+    },
+    {
+      "id": 11,
+      "category": "Fees & Scholarships",
+      "question": "What is the fee refund policy if an admission is cancelled?",
+      "patterns": [
+        "What is the refund policy on admission cancellation?",
+        "Can I get my fee back if I withdraw my seat?",
+        "Refund rules and deduction amount",
+        "How long does fee refund take after cancellation?"
+      ],
+      "answer": "Fee refunds strictly follow UGC guidelines: 100% refund (with deduction of max ₹1,000 processing fee) if cancelled 15 days or more before the formally announced last date of admission; 90% if less than 15 days before; 80% within 15 days after; 50% between 16 and 30 days; and no refund after 30 days from the deadline.",
+      "tags": ["refund", "cancellation", "withdrawal", "ugc rules", "money back"]
+    },
+    {
+      "id": 12,
+      "category": "Examinations & Evaluation",
+      "question": "How are internal assessments and end-semester exams evaluated?",
+      "patterns": [
+        "What is the exam pattern and marking scheme?",
+        "How are internal marks and external marks divided?",
+        "Weightage of mid-term tests and end semester",
+        "Evaluation criteria for theory and practical subjects"
+      ],
+      "answer": "Evaluation consists of continuous internal assessment (40% weightage) and end-semester university examinations (60% weightage). Internals include two midterm tests, continuous lab assessment, mini-projects/assignments, and class participation. A minimum of 40% in end-sem and 40% aggregate is required to pass a course.",
+      "tags": ["exams", "evaluation", "internal marks", "midterm", "end sem", "weightage"]
+    },
+    {
+      "id": 13,
+      "category": "Examinations & Evaluation",
+      "question": "What is the policy for ATKT, backlogs, and re-examinations?",
+      "patterns": [
+        "What are the rules for clearing backlogs?",
+        "How many backlogs are allowed for ATKT promotion?",
+        "When are supplementary or backlog exams held?",
+        "Re-exam policy for failed subjects",
+        "Can I get promoted to next year with backlogs?"
+      ],
+      "answer": "Students can carry a maximum of 4 active backlogs (ATKT - Allowed to Keep Term) into the subsequent academic year. Supplementary re-examinations are conducted within 45 days of the semester result declaration. Final year students must clear all backlogs before graduation to receive the degree.",
+      "tags": ["backlogs", "atkt", "supplementary", "re-exam", "arrears", "promotion"]
+    },
+    {
+      "id": 14,
+      "category": "Examinations & Evaluation",
+      "question": "How can I apply for photocopy or revaluation of exam answer sheets?",
+      "patterns": [
+        "How to apply for paper rechecking or revaluation?",
+        "Re-evaluation procedure and fee per subject",
+        "Can I see my evaluated exam answer sheet?",
+        "Paper verification and recount process"
+      ],
+      "answer": "Students dissatisfied with exam marks can apply for revaluation or obtain an evaluated digital copy via the Exam Cell portal within 10 days of result announcement. A non-refundable processing fee of ₹300 per subject applies. If marks change by more than 10%, the revised grade is updated in the marksheet.",
+      "tags": ["revaluation", "rechecking", "photocopy", "answer sheet", "exam cell", "grades"]
+    },
+    {
+      "id": 15,
+      "category": "Internships & Industry Training",
+      "question": "Is an internship mandatory for engineering students, and for what duration?",
+      "patterns": [
+        "Are internships mandatory in engineering?",
+        "How long should the summer internship be?",
+        "Internship credits and duration requirements",
+        "Do 3rd year students have to do an internship?",
+        "Industrial training requirements"
+      ],
+      "answer": "Yes. As per AICTE guidelines, students must complete at least 6 to 8 weeks of industrial training or internship during the summer breaks after the 4th or 6th semester. Final-year students in the 8th semester may also opt for a full-semester 6-month industry internship with company sponsorship and department approval.",
+      "tags": ["internship", "mandatory", "duration", "summer internship", "industry training", "aicte"]
+    },
+    {
+      "id": 16,
+      "category": "Internships & Industry Training",
+      "question": "How does the Training & Placement Cell help students find internships?",
+      "patterns": [
+        "How can I get an internship through college?",
+        "Does the placement cell provide internship support?",
+        "Companies hiring interns on campus",
+        "How to apply for on-campus summer internships?"
+      ],
+      "answer": "The T&P Cell organizes an annual Internship Fair, coordinates with industry partners, and regularly posts verified internship openings on the student placement portal. The cell also provides bonafide Recommendation Letters (NOC) required by external organizations.",
+      "tags": ["internship assistance", "tnp cell", "noc", "internship fair", "summer training"]
+    },
+    {
+      "id": 17,
+      "category": "Internships & Industry Training",
+      "question": "How do I get a No Objection Certificate (NOC) for an off-campus internship?",
+      "patterns": [
+        "How to apply for NOC for internship?",
+        "Procedure to get internship permission letter",
+        "Who signs the NOC for off campus training?",
+        "Documents needed for internship NOC approval"
+      ],
+      "answer": "To obtain an NOC: 1) Submit the company's official internship offer letter along with job role and duration to your Department Training Coordinator, 2) Ensure attendance and academic criteria are met, and 3) Once approved by the Head of Department (HOD), the T&P Cell issues the signed institutional NOC.",
+      "tags": ["noc", "permission", "off campus", "offer letter", "hod approval"]
+    },
+    {
+      "id": 18,
+      "category": "Placements & Campus Drives",
+      "question": "What is the placement record, average package, and highest CTC offered?",
+      "patterns": [
+        "What is the average placement package?",
+        "Highest salary package in campus placements",
+        "What are the placement statistics of the college?",
+        "Which companies offer the highest CTC?",
+        "Average salary and placement rate"
+      ],
+      "answer": "In the latest placement season (Demo Statistics): The overall placement rate was 88%, with over 150 visiting companies. The highest international package was ₹44 LPA, the highest domestic package was ₹28 LPA, and the overall average CTC across B.Tech branches was ₹6.8 LPA. (Note: These figures are demo stats for illustration).",
+      "tags": ["placement statistics", "average package", "highest package", "ctc", "salary", "placement rate"]
+    },
+    {
+      "id": 19,
+      "category": "Placements & Campus Drives",
+      "question": "Which top recruiting companies visit the campus for placements?",
+      "patterns": [
+        "Which companies hire students from here?",
+        "List of recruiters visiting campus",
+        "Do top tech companies come for placement drives?",
+        "Who are the major recruiters?",
+        "Product based companies visiting for placements"
+      ],
+      "answer": "Prominent regular recruiters include: Tech Giants & IT Services (TCS, Infosys, Wipro, Cognizant, Accenture, Capgemini), Product & Fintech Companies (Amazon, Microsoft, Oracle, Goldman Sachs, Cisco), Core Engineering Firms (L&T, Tata Motors, Siemens, Bosch), and dynamic high-growth startups.",
+      "tags": ["recruiters", "companies", "tcs", "infosys", "amazon", "microsoft", "core companies"]
+    },
+    {
+      "id": 20,
+      "category": "Placement Eligibility & Rules",
+      "question": "What is the minimum CGPA and academic criteria to be eligible for placements?",
+      "patterns": [
+        "What is the minimum CGPA required for campus placement?",
+        "Placement eligibility criteria for students",
+        "Can a student with 6.5 CGPA sit for placements?",
+        "Minimum pointer required for campus drives",
+        "Eligibility percentage in 10th 12th for placements"
+      ],
+      "answer": "While the college permits students with a CGPA >= 6.0 and no active backlogs to register for T&P drives, individual companies set their own cutoffs: Mass recruiters usually require 60% (or 6.0-6.5 CGPA) throughout 10th, 12th, and B.Tech. Top product companies and tier-1 firms typically mandate a CGPA of 7.5 or 8.0+.",
+      "tags": ["cgpa criteria", "placement eligibility", "cutoff", "backlogs", "pointer", "60 percent"]
+    },
+    {
+      "id": 21,
+      "category": "Placement Eligibility & Rules",
+      "question": "Can students with active or history of backlogs participate in campus drives?",
+      "patterns": [
+        "Can I sit for placements if I have backlogs?",
+        "Do companies allow students with active arrears?",
+        "Does history of dead backlogs affect placements?",
+        "Backlog rules in campus placement drives"
+      ],
+      "answer": "Most companies mandate zero active (standing) backlogs at the time of the drive. Some companies additionally require no past history of backlogs (all subjects cleared in the first attempt). However, select IT service companies and startups permit students with up to 1 cleared backlog to participate.",
+      "tags": ["backlogs", "arrears", "dead backlogs", "placement rules", "eligibility"]
+    },
+    {
+      "id": 22,
+      "category": "Placement Eligibility & Rules",
+      "question": "What is the One Student, One Job policy or Dream Offer policy?",
+      "patterns": [
+        "What is the one student one job rule?",
+        "Can I sit for another company after getting placed?",
+        "What is a dream company offer policy?",
+        "Multiple placement offers policy",
+        "Upgrade placement offer rules"
+      ],
+      "answer": "Under the institutional placement policy, once a student secures an offer, they cannot sit for companies in the same salary tier. However, if a student secures a standard offer (< ₹6 LPA), they are eligible to appear for 'Dream Offers' (₹7 to ₹12 LPA) and 'Super Dream Offers' (> ₹12 LPA) up to a maximum of 2 total job offers.",
+      "tags": ["one student one job", "dream offer", "super dream", "policy", "second offer"]
+    },
+    {
+      "id": 23,
+      "category": "Interview Preparation & Skills",
+      "question": "How should I prepare for technical rounds and coding assessments?",
+      "patterns": [
+        "How to prepare for coding and technical interviews?",
+        "What topics are asked in technical interview rounds?",
+        "Coding round preparation tips for placements",
+        "Which data structures and algorithms should I study?",
+        "How to clear company technical tests?"
+      ],
+      "answer": "Key focus areas: 1) Master at least one programming language (Java, C++, or Python), 2) Practice Data Structures & Algorithms (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming) on LeetCode/HackerRank, 3) Solidify Core CS Fundamentals (DBMS, OS, Computer Networks, OOP concepts), and 4) Be ready to explain your capstone projects and live architectural choices.",
+      "tags": ["technical interview", "coding", "dsa", "leetcode", "dbms", "oop", "preparation"]
+    },
+    {
+      "id": 24,
+      "category": "Interview Preparation & Skills",
+      "question": "What are the common rounds in a standard campus placement hiring process?",
+      "patterns": [
+        "What are the rounds in campus placement recruitment?",
+        "Placement drive hiring stages",
+        "Step by step selection process for companies",
+        "Aptitude test, technical round, HR round sequence"
+      ],
+      "answer": "A standard campus recruitment drive consists of 4 stages: 1) Online Assessment (Quantitative Aptitude, Logical Reasoning, Verbal Ability, and Coding/Domain MCQs), 2) Technical Interview Round 1 (DSA, problem-solving, live coding), 3) Technical Interview Round 2 / Managerial Round (system design basics, projects, core subjects), and 4) HR Round (cultural fit, behavioral questions, background verification).",
+      "tags": ["rounds", "aptitude", "technical round", "hr round", "recruitment stages"]
+    },
+    {
+      "id": 25,
+      "category": "Interview Preparation & Skills",
+      "question": "How can I build an impactful, ATS-friendly resume for placements?",
+      "patterns": [
+        "How to write a good resume for college placements?",
+        "Tips for an ATS friendly resume",
+        "Resume format and key sections for freshers",
+        "What to include in a student resume?"
+      ],
+      "answer": "To build an effective fresher resume: 1) Keep it to a clean single-page format, 2) Emphasize 2-3 notable projects with GitHub and live demo links using the STAR method (Situation, Task, Action, Result), 3) List technical skills categorized by Languages, Frameworks, Tools, and Databases, 4) Highlight achievements, hackathons, and certifications, and 5) Avoid spelling errors and fancy graphics that disrupt ATS parsing.",
+      "tags": ["resume", "ats friendly", "fresher resume", "projects", "star method", "cv"]
+    },
+    {
+      "id": 26,
+      "category": "Interview Preparation & Skills",
+      "question": "How should I tackle HR and behavioral interview questions?",
+      "patterns": [
+        "How to prepare for HR interview questions?",
+        "Common questions asked in HR rounds",
+        "How to answer 'Tell me about yourself' and 'Where do you see yourself'?",
+        "Behavioral interview preparation tips"
+      ],
+      "answer": "Use the STAR technique (Situation, Task, Action, Result) for behavioral answers. Prepare crisp responses for standard prompts like 'Tell me about yourself', 'Why this company?', 'Strengths and weaknesses', and 'Handling conflict in team projects'. Research the company's products, leadership, and culture beforehand, and always prepare 2 thoughtful questions to ask the interviewer.",
+      "tags": ["hr interview", "behavioral", "tell me about yourself", "star technique", "culture fit"]
+    },
+    {
+      "id": 27,
+      "category": "Interview Preparation & Skills",
+      "question": "Does the college conduct mock interviews, aptitude training, and soft skills workshops?",
+      "patterns": [
+        "Does college provide placement training and mock interviews?",
+        "Aptitude and soft skill classes in college",
+        "Training programs for placement preparation",
+        "Pre-placement training sessions details"
+      ],
+      "answer": "Yes. Starting from the 5th semester, the T&P Cell conducts mandatory Pre-Placement Training (PPT) modules covering quantitative aptitude, logical reasoning, verbal communication, mock group discussions (GD), and one-on-one mock technical and HR interviews with alumni and industry leaders.",
+      "tags": ["training", "mock interviews", "soft skills", "aptitude training", "pre placement training"]
+    },
+    {
+      "id": 28,
+      "category": "Campus Facilities & Student Life",
+      "question": "What hostel facilities, mess food, and accommodation options are provided?",
+      "patterns": [
+        "Are hostel facilities available on campus?",
+        "What is the hostel fee and accommodation facility?",
+        "Hostel rooms for boys and girls",
+        "Mess food quality and hostel rules"
+      ],
+      "answer": "Separate on-campus residential hostels are available for boys and girls with 24/7 security, Wi-Fi, laundry facilities, study lounges, and indoor gymnasiums. Rooms are offered on twin and triple-sharing bases. The mess provides hygienic vegetarian and non-vegetarian meal plans inspected by the student mess committee.",
+      "tags": ["hostel", "accommodation", "mess", "food", "rooms", "campus residence"]
+    },
+    {
+      "id": 29,
+      "category": "Campus Facilities & Student Life",
+      "question": "What sports facilities, clubs, and cultural activities exist on campus?",
+      "patterns": [
+        "What clubs and extracurricular activities are there?",
+        "Sports facilities and ground in campus",
+        "College fests and technical clubs",
+        "Student activities and cultural events"
+      ],
+      "answer": "The campus features a multi-sport ground (Cricket, Football, Athletics), basketball and tennis courts, and an indoor sports complex (Badminton, Table Tennis, Chess). Over 20 active student clubs operate on campus, spanning Robotics, Coding, IEEE, Debating, Photography, Drama, and Music, alongside the annual Cultural and Technical Fests.",
+      "tags": ["sports", "clubs", "cultural fest", "technical fest", "extracurricular", "ieee"]
+    },
+    {
+      "id": 30,
+      "category": "Campus Facilities & Student Life",
+      "question": "What library resources, digital subscriptions, and research databases are accessible?",
+      "patterns": [
+        "What are the library timings and facilities?",
+        "Access to digital library and research papers",
+        "IEEE ACM journal access for students",
+        "How many books can a student borrow?"
+      ],
+      "answer": "The Central Library houses over 50,000 physical volumes, reading halls with 500+ seating capacity, and a Digital Knowledge Center. Students have access to IEEE Xplore, ScienceDirect, ACM Digital Library, Springer, and DELNET subscriptions. Open on weekdays from 8:00 AM to 10:00 PM and 24/7 during exam weeks.",
+      "tags": ["library", "digital library", "ieee xplore", "journals", "books", "research"]
+    },
+    {
+      "id": 31,
+      "category": "Campus Facilities & Student Life",
+      "question": "What medical, healthcare, and emergency facilities are available on campus?",
+      "patterns": [
+        "Is there an on-campus clinic or doctor?",
+        "Medical emergency facilities in college",
+        "First aid and healthcare support for students",
+        "Ambulance service on campus"
+      ],
+      "answer": "The college operates a 24/7 Student Health Center staffed by a full-time medical officer and nurses. Basic medical consultations, emergency first-aid, essential medicines, and psychological counseling support are free for enrolled students. A dedicated ambulance is on standby for emergencies with tie-ups at nearby multispecialty hospitals.",
+      "tags": ["medical", "health center", "doctor", "ambulance", "emergency", "counseling"]
+    },
+    {
+      "id": 32,
+      "category": "Contact & Support",
+      "question": "How can I contact the Admissions Office and helpdesk?",
+      "patterns": [
+        "How to contact admissions office?",
+        "Admission helpdesk phone number and email",
+        "Where is the admission department located?",
+        "Contact info for admission queries"
+      ],
+      "answer": "You can reach the Admissions Office via email at admissions@apex-demo-institute.edu or call the helpdesk toll-free at +91 1800-123-4567 (Mon-Sat, 9:00 AM to 5:00 PM). The physical office is located in Room 102, Ground Floor, Administrative Block.",
+      "tags": ["contact", "admissions", "phone", "email", "office", "helpdesk"]
+    },
+    {
+      "id": 33,
+      "category": "Contact & Support",
+      "question": "How can I reach the Training and Placement Cell (T&P)?",
+      "patterns": [
+        "How do I reach the placement department?",
+        "Training and placement cell email and phone number",
+        "Placement officer contact details",
+        "TnP office location in college"
+      ],
+      "answer": "The Training & Placement Cell is located on the 2nd Floor of the Student Activity Center. You can email the placement team at placements@apex-demo-institute.edu or call +91 011-2345-6789 (Ext: 204). Office hours are 9:30 AM to 5:30 PM on working days.",
+      "tags": ["contact", "placements", "tnp", "placement officer", "email", "support"]
+    },
+    {
+      "id": 34,
+      "category": "Contact & Support",
+      "question": "How do I report ragging or contact the Anti-Ragging Committee?",
+      "patterns": [
+        "How to report ragging in college?",
+        "Anti-ragging helpline number",
+        "Is there an anti ragging committee?",
+        "Who to contact if someone is harassing or ragging?"
+      ],
+      "answer": "The institute maintains a strict zero-tolerance policy towards ragging. You can report incidents directly to the Anti-Ragging Helpline at 1800-180-5522 (National 24x7) or college internal cell at antiragging@apex-demo-institute.edu (+91 98765-43210). All complaints are kept strictly confidential.",
+      "tags": ["anti ragging", "helpline", "complaints", "safety", "discipline"]
+    },
+    {
+      "id": 35,
+      "category": "Contact & Support",
+      "question": "How do I contact the Examination Cell for transcripts and degree verification?",
+      "patterns": [
+        "How to get official transcripts and duplicate marksheets?",
+        "Exam cell contact details and transcript application",
+        "Degree verification process for alumni and employers",
+        "Where is the examination controller office?"
+      ],
+      "answer": "Official academic transcripts, duplicate grade cards, and degree verification requests should be sent to examcell@apex-demo-institute.edu. Applications can also be submitted online via the student ERP portal under the 'Examinations & Transcripts' module. Standard processing time is 5-7 working days.",
+      "tags": ["exam cell", "transcripts", "degree verification", "marksheet", "controller of examination"]
+    }
+  ]
+}
